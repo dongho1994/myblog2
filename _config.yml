@@ -9,9 +9,9 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
+resume_avatar:                  "????"
+resume_name:                    "Pikachuu"
+resume_title:                   "Lovely pocketmon"
 resume_contact_email:
   "homerjsimpson@youremailaddress.com"
 
